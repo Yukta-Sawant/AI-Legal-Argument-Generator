@@ -6,6 +6,8 @@ This project highlights the potential of fine-tuning language models for special
 By leveraging advanced NLP techniques and tools, the project aims to offer a valuable resource for legal professionals and researchers, providing a model that can assist in drafting and analyzing legal documents.
 To showcase the model’s capabilities, screenshots of the model’s responses to three different prompts are included.
 Each screenshot demonstrates how the model generates text based on varied legal prompts, illustrating its ability to handle different scenarios and provide relevant responses.
+
+
 ![Screenshot 2024-08-30 232020](https://github.com/user-attachments/assets/39214b4f-fc5e-4dd9-b71e-d158dbc28b04)
 
 
